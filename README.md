@@ -14,7 +14,7 @@ Bibliotecas que já vem com a distribuição Anaconda:
 - requests 
 
 
-Outras biliotecas:
+Outras bibliotecas:
 
 - kaggle (API para extração de dados diretamente do site)
 - datetime
